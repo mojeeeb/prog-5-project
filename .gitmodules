@@ -1,0 +1,3 @@
+[submodule "YoBot"]
+	path = YoBot
+	url = https://github.com/aiboosts/YoBot
